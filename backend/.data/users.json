@@ -1,0 +1,11 @@
+{
+  "3d02bb25-e0c6-4cb3-8a1b-4790889d21e8": {
+    "id": "3d02bb25-e0c6-4cb3-8a1b-4790889d21e8",
+    "email": "superadmin@admin.com",
+    "name": "Super Admin",
+    "role": "superadmin",
+    "status": "active",
+    "passwordHash": "6ee222843b1cf4d5d793034fb07f424e:71f0497774d618aa31d0037b135a5d45fd8cde8c8bc3f326d9a694e9fe793ff7506ce04c0ea2d2cd6cd50491e9f3dfbab386e30fbd5a59bed3611b15029372fa",
+    "createdAt": "2026-10-06T15:48:15.448Z"
+  }
+}

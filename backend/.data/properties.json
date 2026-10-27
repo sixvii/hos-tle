@@ -1,0 +1,28 @@
+{
+  "8ddc1af1-878c-4827-b0bc-8592271eb181": {
+    "id": "8ddc1af1-878c-4827-b0bc-8592271eb181",
+    "ownerId": "ed48e68c-0860-4ab2-a46f-968048f979da",
+    "name": "Video Hostel",
+    "description": "A property shown with a video tour.",
+    "city": "Lagos",
+    "area": "Yaba",
+    "university": "University of Lagos",
+    "distance": "2 km",
+    "photos": [],
+    "videos": [
+      "https://res.cloudinary.com/example/video/upload/tour.mp4"
+    ],
+    "amenities": [
+      "Wi-Fi"
+    ],
+    "rooms": [
+      {
+        "name": "Single room",
+        "beds": 1,
+        "price": 400000
+      }
+    ],
+    "status": "under_review",
+    "createdAt": "2026-09-29T01:41:00.223Z"
+  }
+}
